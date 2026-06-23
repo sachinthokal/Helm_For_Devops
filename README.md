@@ -1,5 +1,7 @@
 # ⚙️ Helm for DevOps: Centralized Chart Registry & GitOps Workspace
 
+![Helm](https://img.shields.io/badge/Helm-V3-blue?style=for-the-badge&logo=helm) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ArgoCD](https://img.shields.io/badge/argo%20cd-%23ef7b4d.svg?style=for-the-badge&logo=argo&logoColor=white)
+
 Welcome to the **Helm for DevOps** repository. This is a production-ready, centralized Helm artifact repository designed to host and manage Kubernetes package templates for microservices, using **GitHub Pages** as a private Helm registry and **ArgoCD** for GitOps continuous delivery.
 
 ---
