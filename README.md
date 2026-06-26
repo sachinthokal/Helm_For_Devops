@@ -31,7 +31,7 @@ You can consume charts from this repository directly on any Kubernetes cluster g
 ### 1. Add the Helm Repository
 
 ```bash
-helm repo add sachin-helm-repo [https://sachinthokal.github.io/Helm_For_Devops/](https://sachinthokal.github.io/Helm_For_Devops/)
+helm repo add sachin-helm-repo https://sachinthokal.github.io/Helm_For_Devops
 
 ```
 
