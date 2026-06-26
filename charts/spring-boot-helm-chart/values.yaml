@@ -1,9 +1,9 @@
-replicaCount: 2
+replicaCount: 1
 
 image:
   repository: sachinthokal/spring-boot-rest-api-app
   pullPolicy: IfNotPresent
-  tag: "v3"
+  tag: "v4"
 
 imagePullSecrets: []
 nameOverride: ""
